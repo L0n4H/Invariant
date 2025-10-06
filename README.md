@@ -2,7 +2,7 @@
 
 # Invariant
 
-**Un jeu de "Flemme Interactive"**
+**Un jeu de Flemme Interactive**
 ## Présentation
 
 Bienvenu sur le projet du plus grand jeu de tous les temps. On parle bien évidemment du jeu : **INVARIANT**.
